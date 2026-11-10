@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/icon.png" width="128" height="128" alt="Waifu2x app icon">
+  <img src="docs/app-icon.png" width="160" height="160" alt="Waifu2x app icon">
 </p>
 
 <h1 align="center">Waifu2x</h1>
